@@ -1,0 +1,10 @@
+pandas==0.24.2
+numpy==1.16.4
+plotly==4.9.0
+pycountry==20.7.3
+pycountry_convert==0.7.2
+plotly_express==0.4.1
+geopy==2.0.0
+seaborn==0.9.0
+us==2.0.2
+statsmodels==0.10.0
